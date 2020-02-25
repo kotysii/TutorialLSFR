@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/dan/Vivado_Projects/PN_Gen/PN_Gen.srcs/sources_1/new/PN_GenParameterised.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PN_GenParameterised
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/dan/Vivado_Projects/PN_Gen/PN_Gen.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
